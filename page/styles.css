@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(800deg, #000000, #333);
+    color: #000000;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #fff;
+}
+
+p {
+    color: green;
+}
+
+button {
+    background: linear-gradient(70deg, red, orange, yellow, green);
+    color: black;
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
